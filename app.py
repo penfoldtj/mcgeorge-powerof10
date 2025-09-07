@@ -11,7 +11,7 @@ except Exception:
     get_athlete = None
 
 st.set_page_config(page_title="Power of 10: Season Summary", layout="wide")
-st.title("Run MC Performance Summary Web App")
+st.title("L.E.E Performance Summary Web App")
 st.caption("Select an athlete (or Whole Group) and a season year.")
 
 # ---------------------- Helpers ----------------------
